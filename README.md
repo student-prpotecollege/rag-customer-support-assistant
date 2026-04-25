@@ -35,5 +35,4 @@ This project implements a Retrieval-Augmented Generation (RAG) based Customer Su
 ## Project Flow
 User → Query → Retriever → Context → Answer → Routing → Output / HITL
 
-## Author
-Your Name
+
